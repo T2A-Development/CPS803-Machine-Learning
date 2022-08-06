@@ -1,0 +1,23 @@
+Dear TA,
+
+I have included all the completed program files in their appropriate folders 
+along with the program outputs.
+ 
+You could find three folders as below:
+
+1.	 ‘linearclass’ which is related to Q1 of assignment and 
+	  it contain all the completed program files with the outputs.
+2.	‘possion’ which is related to Q2 of the assignment and 
+	 it also contains all the complete program code with the outputs.
+3.	‘spam’ which is related to Q3 of the assignment and
+	 it contains all the complete program code with the outputs of programs. 
+
+*** I also have word document file with all the answers to the assignment.
+    Please check that along with the files in the three folders.
+
+Thank you in advance for your time and effort to mark my assignment.
+
+Regards,
+
+Tusaif Azmat
+500660278.

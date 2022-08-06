@@ -1,0 +1,13 @@
+Dear TA,
+
+I have added all the files in this folder. 
+1-featuremaps folder has Q1 solution.
+2-posonly folder has solution to Q2 of the assigment.
+3- two reports of jupyter Notebook pdf files for Q1 and Q2.
+4- pdf for hand written calculations for Q1 and Q2.
+
+I hope you find all that are required for assignment 1 in this folder. thanks.
+
+regards,
+Tusaif Azmat
+500660278.
